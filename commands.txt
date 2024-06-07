@@ -1,0 +1,8 @@
+Git Commands
+
+git config --list  => shows git username,email etc
+
+git config --global user.name "username" => to set the git username
+
+git config --global user.email "email" => to set the git email
+
