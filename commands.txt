@@ -13,3 +13,5 @@ git status => list untracked files
 git add -A => add all untracked files to staging area
 
 git commit -m "commit message" => add all staged files to local repository
+
+git branch => list all branches
